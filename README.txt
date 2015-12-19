@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 (!) O documento está sujeito às mudanças e aberto a discussões,
 	este ReadMe é apenas um modo de termos um plano devidamente
 	evidente e para não andarmos em círculos.				 (!)
@@ -121,3 +122,8 @@ A ideia inicial:
 INDICE:
 * -> Nao é o objetivo inicial introduzir o multiplayer de início.
 (?) -> Ideia adicional que ainda não foi discutida pelo time de desenvolvimento.
+=======
+Created Readme 28/11/2015
+Project: Web Based MMO
+Test - Push smartgit
+>>>>>>> 2881cba365c27df1d3cf1f45517b495b30e4b062
