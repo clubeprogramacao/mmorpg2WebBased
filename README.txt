@@ -1,9 +1,10 @@
-<<<<<<< HEAD
+
 (!) O documento está sujeito às mudanças e aberto a discussões,
 	este ReadMe é apenas um modo de termos um plano devidamente
 	evidente e para não andarmos em círculos.				 (!)
 
-Back end => mySQL e PHP;
+Back end => Python;
+Framework => Django;
 Front end => HTML CSS javascript/python;
 	Para python ainda nao sabemos qual webframework usar. 
 	Mais detalhes na pagina: https://wiki.python.org/moin/WebFrameworks
@@ -21,6 +22,13 @@ Mecanicas de jogo:
 	Ações:
 		Baseadas em tempo;
 		Pode-se fazer ate X acoes e cada uma dessas demora um tempo Y;
+
+Conta:
+	Username (única);
+	password
+	mail
+	dinheiro real
+	Amigos (outras contas)
 
 HEROI:
 	Escolha de Origem:
@@ -41,7 +49,7 @@ HEROI:
 	Hitpoints(vida):
 		Perde vida até 0 e morre com respawn;
 		Morte  a principio possui penalidades como perca de xp;
-
+	Peso máximo suportado (Para inventório)
 	Gold:
 		Associado a conta;
 		Recebido de missões;
@@ -55,6 +63,7 @@ HEROI:
 				Armaduras de couro usam couro (duh), de metais usam minerais e assim por diante;
 
 	Inventario:
+	
 		Equipamento para o heroi:
 			Botas;
 			Luvas;
@@ -63,7 +72,6 @@ HEROI:
 			Calça;
 			Amuletos;
 			Aneis;
-			Trinkets;
 			
 	Atributos:
 	Cada atributo possui um nivel:
@@ -122,8 +130,8 @@ A ideia inicial:
 INDICE:
 * -> Nao é o objetivo inicial introduzir o multiplayer de início.
 (?) -> Ideia adicional que ainda não foi discutida pelo time de desenvolvimento.
-=======
+
 Created Readme 28/11/2015
 Project: Web Based MMO
 Test - Push smartgit
->>>>>>> 2881cba365c27df1d3cf1f45517b495b30e4b062
+
